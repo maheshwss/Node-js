@@ -1,0 +1,28 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshwss/Node-js.git"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maheshwss/Node-js/issues"
+  },
+  "homepage": "https://github.com/maheshwss/Node-js#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

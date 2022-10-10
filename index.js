@@ -1,4 +1,4 @@
-const app = require('./app')  // improting the data from app.js file
+// const app = require('./app')  // improting the data from app.js file
 
 // var x = '20';
 // console.log(x);
@@ -32,3 +32,4 @@ const app = require('./app')  // improting the data from app.js file
 // const fs = require('fs').writeFileSync;
 // fs("abc.txt", "abc");
 
+ 
